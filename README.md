@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parmar Maulik</h1>
-<h3 align="center">A passionate frontend / Backend developer from India</h3>
+<h3 align="center">I am a data analyst with a passion for storytelling. I believe that words and data are the two most powerful tools to change the world.</h3>
 
-- 🔭 I’m currently working on **ATTENDANCE WITH FACE RICOGNOTION**
-
+- 🔭 Successfully deployed **ATTENDANCE WITH FACE RICOGNOTION**
+- 🌱 I’m currently learning Tensorflow, Opencv
 - 📫 How to reach me **mm.2004.parmar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
